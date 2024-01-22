@@ -16,17 +16,15 @@
 
 </div>
 
+<h2>Contact :door:</h2>
+<div>
+  <a href="https://ujkkk.github.io/about/" target="_blank">
+    <img src="https://img.shields.io/badge/website-305D61.svg?&style=for-the-badge&logo=About.me&logoColor=ffffff&labelColor=000000&logoWidth=20"/>
+  </a>
+   &nbsp&nbsp
+  <a href="https://uzinlab.tistory.com/"><img src="https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=Tistory&logoColor=white&link="https://uzinlab.tistory.com/"/></a>
+   
+</div>
 
 
-<br><br>
-<h2> 🏆 Awards</h2>
-
--  [2022. 09. 24] 제 18회 한성 공학 경진대회 **금상**
--  [2022. 12. 15] 제 20회 임베디드 경진 대회 **자유공모 부문 우수상**
--  [2022. 12. 15] 제 20회 임베디드 경진 대회 **우수 연구노트상 부문 수상**
--  [2023. 02. 20] 제 7회 한성대학교 **C&C Festival**(창의융합성과 경진대회) **대상**
--  [2023. 06. 03] 23 한성대학교 컴퓨터공학부 캡스톤디자인 **작품 발표회 최우수상**
--  [2023. 08. 11] 제 8회 한성대학교 **C&C Festival**(창의융합성과 경진대회) **대상**
--  [2023. 09. 26] 제 19회 한성 공학 경진대회 **은상**
--  [2023. 11. 13] 2023년 **공개SW 개발자대회** **은상**
 
