@@ -12,7 +12,7 @@
 </div>
 <br><br>
 
-<h2>Contact :door:</h2>
+<h1>Contact :door:</h1>
 <div>
   <a href="https://ujkkk.github.io/about/" target="_blank">
     <img src="https://img.shields.io/badge/website-305D61.svg?&style=for-the-badge&logo=About.me&logoColor=ffffff&labelColor=000000&logoWidth=20"/>
@@ -20,7 +20,7 @@
    &nbsp&nbsp
   <a href="https://uzinlab.tistory.com/"><img src="https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=Tistory&logoColor=white&link="https://uzinlab.tistory.com/"/></a>
    
-</div>
+</div><br><br>
 
 
 # 💼 Team Projects
@@ -38,22 +38,21 @@
 2022.06. - 2023.02. <br><br>
 [<span class="icon-youtube"> 📺 Youtube </span>](https://www.youtube.com/watch?v=Fe8LvNGYio0) | [<span class="icon-github"> Github</span>](https://github.com/HINAPIA/CoMirror)
 
-
 #### 프로젝트 개요
 <div markdown="1">
 최근 삼성의 냉장고처럼 IoT화 된 가전제품이 증가하고 있습니다. 하지만 Iot화 된 가전 제품들은 대부분은 <u>장치 간 통신 기능이 없거나 체계화 되어있지 않습니다.</u>
 이러한 점에 주목하여 <u>서버 클라이언트 아키텍처로</u> <u>가전 제품 간 통신 체계를 구축</u>하고 Raspberry PI 거울을 적용하여 CoMirror를 개발했습니다.
 </div>
-<br><br>
+<br>
 
-####  주요 기술
+#### ✈️ 주요 기술
 <div markdown="1">
  <p style="margin-bottom:6px;">✔️ HTML, CSS, Javascript를 이용한 크로스 플랫폼 앱 제작</p>
  <p style="margin-bottom:6px;">✔️ 얼굴 인식 기반의 다중 사용자 환경 제공 </p>
  <p style="margin-bottom:6px;">✔️ 사용자간 텍스트, 이미지, 음성 메시지 통신 제공</p>
  <p style="margin-bottom:6px;">✔️ WebRTC를 이용한 CoMirror 사용자 간 화상 통신 기술</p>
  <p style="margin-bottom:6px;">✔️ STT을 활용한 음성 명령을 통한 기기 제어</p>
-</div><br><br>
+</div><br>
 
 #### 💁🏻‍♀️ 프로젝트 내 담당 기술
 <div markdown="1">
@@ -107,15 +106,15 @@
 가능한 카메라 솔루션입니다.**<br>
 2023.03. - 2023.12.<br><br>
 [<span class="icon-youtube"> 📺 Youtube </span>](https://www.youtube.com/watch?v=9IaMnBYUsA8) |  [<span class="icon-github"> Github </span>](https://github.com/HINAPIA/OnePic-All-in-JPEG)
-<br><br>
+<br>
 
-#### 주요 기술
+#### ✈️주요 기술
 <div markdown="1">
 <p style="margin-bottom:6px;">✔️ CameraX를 이용한 객체별/ 거리별 초점이 맞춰진 다초점 이미지 촬영</p>
 <p style="margin-bottom:6px;">✔️ JPEG 포맷을 확장하여 멀티콘텐츠를 담을 수 있는 파일 포맷 개발, All-in JPEG/</p>
 <p style="margin-bottom:6px;">✔️ All in JPEG을 이용한 객체별/ 거리별 사후 초점 후처리 </p>
 <p style="margin-bottom:6px;">✔️ Tensorflow lite와 OpenCV를 이용한 베스트 사진 추천 기술</p>
-<br><br>
+<br>
   
 #### 💁🏻‍♀️ 프로젝트 내 담당 기술
 <div markdown="1">
