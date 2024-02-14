@@ -7,14 +7,10 @@
 <h2>My, GitHub :cloud:</h2>
 
 [![ujkkk's GitHub stats](https://github-readme-stats.vercel.app/api?username=ujkkk&hide_title=true&show_icons=true&include_all_commits=true&disable_animations=true&theme=vue)](https://github.com/anuraghazra/github-readme-stats)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ujkkk&layout=compact)
-<br><br>
-
-<h2>Baekjoon Rank :seedling:</h2>
-
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=kuj0111)](https://solved.ac/kuj0111/)
 
 </div>
+<br><br>
 
 <h2>Contact :door:</h2>
 <div>
@@ -36,119 +32,44 @@
 
  <div align="right">Team. <a href="https://github.com/HINAPIA">황금비</a><br></div>
 
- #### 개요  
-   CoMirror는 거울에 Raspberry PI를 부착한 IoT 가전장치로서 패밀리 허브로 사용되거나 여러 패밀리를 네트워크로 연결하는 장치이다. <br>
-   이들은 서버를 경유하여 인터넷으로 연결되고 텍스트 메시지, 이미지, 음성 파일 등을 전송한다. <br>
-   또한 WebRTC 기술을 이용하여 영상통화를 제공한다. 
+## Electron을 이용한 새로운 IoT 가전 장치, CoMirror (Communication Mirror) ##
 
-<span>
-  <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=for-the-badge&logo=Javascript&logoColor=white" />
-  <img src="https://img.shields.io/badge/Electron-47848F?style=for-the-badge&logo=Electron&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white"/> 
-  <img src="https://img.shields.io/badge/webRTC-333333?style=for-the-badge&logo=webRTC&logoColor=white"/> 
-</span>
-</details>
-
-<br>
-<details>
-  <summary><strong>JPEG 확장을 통한 다초점 멀티 콘텐츠 카메라 솔루션, <a href="https://github.com/HINAPIA/OnePic-All-in-JPEG">One Pic All-in JPEG</a></strong>
-  </summary>
-<img src="https://github.com/ujkkk/BOJ/assets/88374384/8921093c-bd9b-4b13-b2ae-d36d2c0a452d" alt="OnePIC All-in JPEG"/><br >
-
- <div align="right">Team. <a href="https://github.com/HINAPIA">황금비</a><br></div>
-
-## JPEG 확장을 통한 다초점 카메라 솔루션, One Pic All-in JPEG
-
-    OnePIC은 JPEG을 확장한 All-in JPEG을 활용하여 사용자가 촬영 후 언제든지 원하는 곳으로 초점을 맞출 수 있는 안드로이드 카메라 앱입니다.
-
-    2023.03. - 2023.12.
-
-[<span class="icon-youtube"> 📺 Youtube </span>](https://www.youtube.com/watch?v=9IaMnBYUsA8) |  [<span class="icon-github"> Github </span>](https://github.com/HINAPIA/OnePic-All-in-JPEG)
+**CoMirror는 거울에 Raspberry PI를 부착한 IoT 가전장치로서, 패밀리 허브로 사용되거나 여러 패밀리를 네트워크로 연결할 수 있는 IoT 장치입니다.**<br>
+2022.06. - 2023.02. <br><br>
+[<span class="icon-youtube"> 📺 Youtube </span>](https://www.youtube.com/watch?v=Fe8LvNGYio0) | [<span class="icon-github"> Github</span>](https://github.com/HINAPIA/CoMirror)
 
 
 #### 프로젝트 개요
 <div markdown="1">
-오늘날, 스마트폰 카메라 성능과 카메라 앱의 기술이 빠르게 발전하고 있지만, <u>촬영자가 원하는 곳에 초점을 맞추기 어렵다는 문제</u>와 <u>촬영된 사진의 초점을 바꿀 수 없다는 문제</u>가 해결되지 않고 있다.
-본 프로젝트는 이러한 문제를 해결하기 위해, 사용자가 <u>촬영 후 원하는 곳으로 초점을 변경할 수 있는 카메라 솔루션</u>을 개발하였고, 이를 안드로이드 앱 OnePIC으로 구현하였다.
+최근 삼성의 냉장고처럼 IoT화 된 가전제품이 증가하고 있습니다. 하지만 Iot화 된 가전 제품들은 대부분은 <u>장치 간 통신 기능이 없거나 체계화 되어있지 않습니다.</u>
+이러한 점에 주목하여 <u>서버 클라이언트 아키텍처로</u> <u>가전 제품 간 통신 체계를 구축</u>하고 Raspberry PI 거울을 적용하여 CoMirror를 개발했습니다.
 </div>
+<br><br>
 
-
-#### 주요 기술
+####  주요 기술
 <div markdown="1">
- - 객체별/ 거리별 초점이 맞춰진 다초점 이미지 촬영 <br>
- - 객체별/ 거리별 사후 초점 후처리
- - JPEG 포맷을 확장하여 멀티콘텐츠를 담을 수 있는 파일 포맷, All-in JPEG<br>
- - All-in JPEG 활용 기술 : 베스트 사진 추천, 얼굴 블렌딩, 매직픽처, 멀티 콘텐츠 파일 생성<br>
-</div>
-
+ <p style="margin-bottom:6px;">✔️ HTML, CSS, Javascript를 이용한 크로스 플랫폼 앱 제작</p>
+ <p style="margin-bottom:6px;">✔️ 얼굴 인식 기반의 다중 사용자 환경 제공 </p>
+ <p style="margin-bottom:6px;">✔️ 사용자간 텍스트, 이미지, 음성 메시지 통신 제공</p>
+ <p style="margin-bottom:6px;">✔️ WebRTC를 이용한 CoMirror 사용자 간 화상 통신 기술</p>
+ <p style="margin-bottom:6px;">✔️ STT을 활용한 음성 명령을 통한 기기 제어</p>
+</div><br><br>
 
 #### 💁🏻‍♀️ 프로젝트 내 담당 기술
 <div markdown="1">
-<p style="margin-bottom:10px;">✔️ 멀티 콘텐츠(이미지, 텍스트, 오디오)를 담는 All-in JPEG 설계 및 구현</p>
-<p style="margin-bottom:10px;">✔️ Java를 기반으로 한 All-in JPEG 전용 데스크탑 뷰어 구현 </p>
-<p style="margin-bottom:10px;">✔️ OnePIC 앱 내 All-in JPEG 활용 기능 구현/</p>
-</div>
+  <p style="margin-bottom:6px;">✔️ Python 기반의 얼굴 학습 데이터 전처리 및 모델 파인튜닝</p>
+  <p style="margin-bottom:6px">✔️ JS, Python 기반의 얼굴 인식 시스템 구현 </p>
+  <p style="margin-bottom:6px">✔️ MQTT를 이용한 텍스트, 이미지, 음성 메시지 송신,수신 구현</p>
+  <p style="margin-bottom:6px">✔️ node.js를 이용한 서버 구축 및 DB 테이블 설계</p>
+  <p style="margin-bottom:6px">✔️ JavaScript 기반의 CoMirror UI 구현 </p>
+</div><br>
 
 <details>
 <summary style="font-weight: bold;margin-top:30px"> 📊 개발 스택</summary>
 <div markdown="1">
-- 개발 환경 : android studio, intelliJ, visual studio code<br>
-- 개발 도구 : Camera2, MLKit, Tensorflow lite, OpenCV, TornadoFX<br>
-- 개발 언어 : Java, Kotlin ,HTML5, CSS3, JavaScript, Python<br>
-</div>
-</details>
-
-<details>
-<summary style="font-weight: bold;"> 🎖️ 수상 내역</summary>
-<div markdown="1">
-- [2023. 12. 01] 제 17회 공개 SW 개발자 대회 은상<br>
-- [2023. 09. 26] 제 19회 한성대학교 한성공학경진대회 은상<br>
-- [2023. 08. 11] 제 8회 한성대학교 창의융합성과 경진대회(C&C Festival) 대상<br>
-- [2023. 06. 02] 한성대학교 컴퓨터공학부 캡스톤디자인 작품 발표회 최우수상<br>
-
-</div>
-</details>
-<br>
-<hr>
-
-
-<!--프로젝트 2 -->
-## Electron을 이용한 새로운 IoT 가전 장치, CoMirror (Communication Mirror) ##
-
-**CoMirror는 거울에 Raspberry PI를 부착한 IoT 가전장치로서, 패밀리 허브로 사용되거나 여러 패밀리를 네트워크로 연결할 수 있는 IoT 장치이다.**<br><br>
-2022.06. - 2023.02. <br>[<span class="icon-youtube"> Youtube </span>](https://www.youtube.com/watch?v=Fe8LvNGYio0) [<span class="icon-github"> Github</span>](https://github.com/HINAPIA/CoMirror)
-{:.note title="Summary"}
-
-#### 프로젝트 개요
-<div markdown="1">
-최근 삼성의 냉장고처럼 IoT화 된 가전제품이 증가하고 있다. 이러한 가전 제품들은 공통적으로 사용자에게 정보 제공, 외부에서 접근 가능, 홈 제어 기능을 가지지만 대부분은 <u>장치 간 통신 기능이 없거나 체계화 되어있지 않다.</u>
-이러한 점에 주목하여 <u>서버 클라이언트 아키텍처로</u> <u>가전 제품 간 통신 체계를 구축하</u>고 이를 거울에 적용한 CoMirror를 개발한다.
-</div>
-####  주요 기술
-<div markdown="1">
- - 얼굴 인식을 통한 다중 사용자 환경 제공 <br>
- - MQTT를 이용한 텍스트, 이미지, 음성 메시지 수신 및 송신<br>
- - WebRTC를 이용한 CoMirror 사용자 간 화상 통신<br>
-  - 음성 명령을 통한 기기 제어<br>
-</div>
-
-#### 🙋‍♀️ 프로젝트 내 담당 기술
-<div markdown="1">
-  <p style="margin-bottom:10px;">✔️ 얼굴 학습 데이터 전처리 및 모델 파인튜닝</p>
-  <p style="margin-bottom:10px">✔️ 얼굴 인식을 통한 다중 사용자 환경 구축 및 관리</p>
-  <p style="margin-bottom:10px">✔️ MQTT를 이용한 텍스트, 이미지, 음성 메시지 송신,수신 </p>
-  <p style="margin-bottom:10px">✔️ 서버 구축 및 DB 테이블 설계</p>
-  <p style="margin-bottom:10px">✔️ 성능평가 및 얼굴 인식 속도 성능 개선</p>
-</div>
-
-<details>
-<summary style="font-weight: bold;margin-top:30px"> 📊 개발 스택</summary>
-<div markdown="1">
-- 개발 환경 :  VSCode<br>
-- 개발 도구 :  Electron, MySQL, OpenCV, WebRTC, Mosqutto, Tensorflow keras<br>
-- 개발 언어 :  HTML5, CSS3, JavaScript, Python<br>
+<p style="margin-bottom:6px;"> ✔️ 개발 환경 :  VSCode</p>
+<p style="margin-bottom:6px;"> ✔️ 개발 도구 :  Electron, MySQL, OpenCV, WebRTC, Mosqutto, Tensorflow keras</p>
+<p style="margin-bottom:6px;"> ✔️ 개발 언어 :  HTML5, CSS3, JavaScript, Python</p>
 </div>
 </details>
 
@@ -162,17 +83,65 @@
 </div>
 </details>
  
- #### 개요    
+<span>
+  <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=for-the-badge&logo=Javascript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Electron-47848F?style=for-the-badge&logo=Electron&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white"/> 
+  <img src="https://img.shields.io/badge/webRTC-333333?style=for-the-badge&logo=webRTC&logoColor=white"/> 
+</span>
+</details>
+<br>
 
-  OnePIC은 JPEG을 확장한 All-in JPEG을 활용하여, 사용자가 촬영 후 언제든지 원하는 곳으로 초점을 맞출 수 있는 안드로이드 카메라 앱입니다.
+<!-- 프로젝트 2 -->
+<details>
+  <summary><strong>JPEG 확장을 통한 다초점 멀티 콘텐츠 카메라 솔루션, <a href="https://github.com/HINAPIA/OnePic-All-in-JPEG">One Pic All-in JPEG</a></strong>
+  </summary>
+  <img src="https://github.com/ujkkk/BOJ/assets/88374384/8921093c-bd9b-4b13-b2ae-d36d2c0a452d" alt="OnePIC All-in JPEG"/><br >
 
-   이미지, 오디오, 텍스트 등 멀티 컨텐츠를 담을 수 있는 새로운 형태의 All-in JPEG과 
-   다초점 촬영 및 사후 초점 처리 기능 그리고 베스트 사진 추천, 얼굴 블렌딩, 매직픽처 등 활용 기능을 탑재한 카메라 솔루션이다.
- 
- #### 담당 기술
-  • Camera2 API를 이용한 객체별 & 거리별 다초점 촬영 기능 구현 <br>
-  • MLKit 라이브러리를 이용한 다양한 활용 기술(베스트 사진 추천, 얼굴 블렌딩, 매직픽처) 구현 <br>
+  <div align="right">Team. <a href="https://github.com/HINAPIA">황금비</a><br></div>
 
+## JPEG 확장을 통한 다초점 카메라 솔루션, One Pic All-in JPEG
+**멀티 콘텐츠를 담을 수 있는 새로운 파일 포맷 All-in JPEG을 기반으로한, 한 번의 촬영으로 사후 초점 변경이 
+가능한 카메라 솔루션입니다.**<br>
+2023.03. - 2023.12.<br><br>
+[<span class="icon-youtube"> 📺 Youtube </span>](https://www.youtube.com/watch?v=9IaMnBYUsA8) |  [<span class="icon-github"> Github </span>](https://github.com/HINAPIA/OnePic-All-in-JPEG)
+<br><br>
+
+#### 주요 기술
+<div markdown="1">
+<p style="margin-bottom:6px;">✔️ CameraX를 이용한 객체별/ 거리별 초점이 맞춰진 다초점 이미지 촬영</p>
+<p style="margin-bottom:6px;">✔️ JPEG 포맷을 확장하여 멀티콘텐츠를 담을 수 있는 파일 포맷 개발, All-in JPEG/</p>
+<p style="margin-bottom:6px;">✔️ All in JPEG을 이용한 객체별/ 거리별 사후 초점 후처리 </p>
+<p style="margin-bottom:6px;">✔️ Tensorflow lite와 OpenCV를 이용한 베스트 사진 추천 기술</p>
+<br><br>
+  
+#### 💁🏻‍♀️ 프로젝트 내 담당 기술
+<div markdown="1">
+<p style="margin-bottom:6px;">✔️ 멀티 콘텐츠(이미지, 텍스트, 오디오)를 담는 All-in JPEG 설계 및 구현</p>
+<p style="margin-bottom:6px;">✔️ Java 기반의 All-in JPEG 파일 입출력 구현/</p>
+<p style="margin-bottom:6px;">✔️ JavaFX를 이용한 All-in JPEG 전용 데스크탑 뷰어 구현 </p>
+</div>
+<br>
+
+<details>
+<summary style="font-weight: bold;margin-top:30px"> 📊 개발 스택</summary>
+<div markdown="1">
+<p style="margin-bottom:6px;"> 개발 환경 : android studio, intelliJ, visual studio code</p>
+<p style="margin-bottom:6px;"> 개발 도구 : Camera2, MLKit, Tensorflow lite, OpenCV, TornadoFX</p>
+<p style="margin-bottom:6px;"> 개발 언어 : Java, Kotlin ,HTML5, CSS3, JavaScript, Python</p>
+</div>
+</details>
+
+<details>
+<summary style="font-weight: bold;"> 🎖️ 수상 내역</summary>
+<div markdown="1">
+- [2023. 12. 01] 제 17회 공개 SW 개발자 대회 은상<br>
+- [2023. 09. 26] 제 19회 한성대학교 한성공학경진대회 은상<br>
+- [2023. 08. 11] 제 8회 한성대학교 창의융합성과 경진대회(C&C Festival) 대상<br>
+- [2023. 06. 02] 한성대학교 컴퓨터공학부 캡스톤디자인 작품 발표회 최우수상<br>
+</div>
 <span>
   <img src="https://img.shields.io/badge/Android Studio-3DDC84?style=for-the-badge&logo=Android Studio&logoColor=white"/> 
   <img src="https://img.shields.io/badge/camera2-000000?style=for-the-badge&logo=camera2&logoColor=white"/> 
