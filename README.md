@@ -1,4 +1,4 @@
-# 
+
 ### Hi there 👋 I’m YuJin.
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fujkkk&count_bg=%238DB8DD&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 <br>
@@ -60,23 +60,11 @@
 <details>
 <summary style="font-weight: bold;margin-top:30px"> 📊 개발 스택</summary>
 <div markdown="1">
-<p style="margin-bottom:6px;"> ✔️ 개발 환경 :  VSCode</p>
+<p style="margin-bottom:6px;margin-top:6px;"> ✔️ 개발 환경 :  VSCode</p>
 <p style="margin-bottom:6px;"> ✔️ 개발 도구 :  Electron, MySQL, OpenCV, WebRTC, Mosqutto, Tensorflow keras</p>
 <p style="margin-bottom:6px;"> ✔️ 개발 언어 :  HTML5, CSS3, JavaScript, Python</p>
 </div>
-</details>
-
-<details>
-<summary style="font-weight: bold; margin-bottom:10px"> 🎖️ 수상 내역</summary>
-<div markdown="1">
-- [2023. 02. 20] 제 7회 한성대학교 창의융합성과 경진대회(C&C Festival) 대상<br>
-- [2022. 12. 15] 제 20회 임베디드 경진대회 우수 연구노트 부문 특별상(성균관대학교 총장상)<br>
-- [2022. 12. 15] 제 20회 임베디드 경진대회 자유공모 부문 우수상(MDS인텔리전스 대표상)<br>
-- [2022. 09. 23] 제 18회 한성대학교 한성공학경진대회 금상<br>
-</div>
-</details>
- 
-<span>
+  <span>
   <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
   <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=for-the-badge&logo=Javascript&logoColor=white" />
@@ -84,6 +72,19 @@
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white"/> 
   <img src="https://img.shields.io/badge/webRTC-333333?style=for-the-badge&logo=webRTC&logoColor=white"/> 
 </span>
+</details>
+
+<details>
+<summary style="font-weight: bold; margin-bottom:10px"> 🎖️ 수상 내역</summary>
+<div markdown="1">
+<p style="margin-bottom:6px;margin-top:6px;"> [2023. 02. 20] 제 7회 한성대학교 창의융합성과 경진대회(C&C Festival) 대상</p>
+<p style="margin-bottom:6px;"> [2022. 12. 15] 제 20회 임베디드 경진대회 우수 연구노트 부문 특별상(성균관대학교 총장상)</p>
+<p style="margin-bottom:6px;"> [2022. 12. 15] 제 20회 임베디드 경진대회 자유공모 부문 우수상(MDS인텔리전스 대표상)</p>
+<p style="margin-bottom:6px;"> [2022. 09. 23] 제 18회 한성대학교 한성공학경진대회 금상</p>
+</div>
+</details>
+ 
+
 </details>
 <br>
 
@@ -105,43 +106,44 @@
 #### ✈️주요 기술
 <div markdown="1">
 <p style="margin-bottom:6px;">✔️ CameraX를 이용한 객체별/ 거리별 초점이 맞춰진 다초점 이미지 촬영</p>
-<p style="margin-bottom:6px;">✔️ JPEG 포맷을 확장하여 멀티콘텐츠를 담을 수 있는 파일 포맷 개발, All-in JPEG/</p>
-<p style="margin-bottom:6px;">✔️ All in JPEG을 이용한 객체별/ 거리별 사후 초점 후처리 </p>
+<p style="margin-bottom:6px;">✔️ 멀티콘텐츠를 담을 수 있는 파일 포맷, All-in JPEG/</p>
+<p style="margin-bottom:6px;">✔️ All in JPEG을 이용한 객체별/ 거리별 사후 초점 후처리 기술 </p>
 <p style="margin-bottom:6px;">✔️ Tensorflow lite와 OpenCV를 이용한 베스트 사진 추천 기술</p>
 <br>
   
 #### 💁🏻‍♀️ 프로젝트 내 담당 기술
 <div markdown="1">
-<p style="margin-bottom:6px;">✔️ 멀티 콘텐츠(이미지, 텍스트, 오디오)를 담는 All-in JPEG 설계 및 구현</p>
-<p style="margin-bottom:6px;">✔️ Java 기반의 All-in JPEG 파일 입출력 구현/</p>
-<p style="margin-bottom:6px;">✔️ JavaFX를 이용한 All-in JPEG 전용 데스크탑 뷰어 구현 </p>
+<p style="margin-bottom:6px;">✔️ JPEG을 확장한 All-in JPEG 설계 및 구현</p>
+<p style="margin-bottom:6px;">✔️ Java 기반의 All-in JPEG 파일 입출력 기능 구현/</p>
+<p style="margin-bottom:6px;">✔️ JavaFX를 활용한 All-in JPEG 전용 데스크탑 뷰어 구현 </p>
 </div>
 <br>
 
 <details>
 <summary style="font-weight: bold;margin-top:30px"> 📊 개발 스택</summary>
 <div markdown="1">
-<p style="margin-bottom:6px;"> 개발 환경 : android studio, intelliJ, visual studio code</p>
+<p style="margin-bottom:6px;margin-top:6px;"> 개발 환경 : android studio, intelliJ, visual studio code</p>
 <p style="margin-bottom:6px;"> 개발 도구 : Camera2, MLKit, Tensorflow lite, OpenCV, TornadoFX</p>
 <p style="margin-bottom:6px;"> 개발 언어 : Java, Kotlin ,HTML5, CSS3, JavaScript, Python</p>
 </div>
-</details>
-
-<details>
-<summary style="font-weight: bold;"> 🎖️ 수상 내역</summary>
-<div markdown="1">
-- [2023. 12. 01] 제 17회 공개 SW 개발자 대회 은상<br>
-- [2023. 09. 26] 제 19회 한성대학교 한성공학경진대회 은상<br>
-- [2023. 08. 11] 제 8회 한성대학교 창의융합성과 경진대회(C&C Festival) 대상<br>
-- [2023. 06. 02] 한성대학교 컴퓨터공학부 캡스톤디자인 작품 발표회 최우수상<br>
-</div>
-<span>
+  <span>
   <img src="https://img.shields.io/badge/Android Studio-3DDC84?style=for-the-badge&logo=Android Studio&logoColor=white"/> 
   <img src="https://img.shields.io/badge/camera2-000000?style=for-the-badge&logo=camera2&logoColor=white"/> 
   <img src="https://img.shields.io/badge/tensorflow lite-FFAA5B?style=for-the-badge&logo=tensorflow&logoColor=white"/> 
   <img src="https://img.shields.io/badge/MLKit-007ACC?style=for-the-badge&logo=mlkit&logoColor=white"/> 
   <img src="https://img.shields.io/badge/opencv-6EC93F?style=for-the-badge&logo=opencv&logoColor=white"/> 
 </span>
+</details>
+
+<details>
+<summary style="font-weight: bold;"> 🎖️ 수상 내역</summary>
+<div markdown="1">
+<p style="margin-bottom:6px;margin-top:6px;"> [2023. 12. 01] 제 17회 공개 SW 개발자 대회 은상</p>
+<p style="margin-bottom:6px;"> [2023. 09. 26] 제 19회 한성대학교 한성공학경진대회 은상</p>
+<p style="margin-bottom:6px;"> [2023. 08. 11] 제 8회 한성대학교 창의융합성과 경진대회(C&C Festival) 대상</p>
+<p style="margin-bottom:6px;"> [2023. 06. 02] 한성대학교 컴퓨터공학부 캡스톤디자인 작품 발표회 최우수상</p>
+</div>
+
 </details>
 <br>
 
