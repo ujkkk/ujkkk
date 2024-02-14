@@ -36,14 +36,8 @@
 
 **CoMirror는 거울에 Raspberry PI를 부착한 IoT 가전장치로서, 패밀리 허브로 사용되거나 여러 패밀리를 네트워크로 연결할 수 있는 IoT 장치입니다.**<br>
 2022.06. - 2023.02. <br><br>
-[<span class="icon-youtube"> 📺 Youtube </span>](https://www.youtube.com/watch?v=Fe8LvNGYio0) | [<span class="icon-github"> Github</span>](https://github.com/HINAPIA/CoMirror)
+[<span class="icon-youtube"> 📺 Youtube </span>](https://www.youtube.com/watch?v=Fe8LvNGYio0) | [<span class="icon-github"> Github</span>](https://github.com/HINAPIA/CoMirror)<br><br>
 
-#### 프로젝트 개요
-<div markdown="1">
-최근 삼성의 냉장고처럼 IoT화 된 가전제품이 증가하고 있습니다. 하지만 Iot화 된 가전 제품들은 대부분은 <u>장치 간 통신 기능이 없거나 체계화 되어있지 않습니다.</u>
-이러한 점에 주목하여 <u>서버 클라이언트 아키텍처로</u> <u>가전 제품 간 통신 체계를 구축</u>하고 Raspberry PI 거울을 적용하여 CoMirror를 개발했습니다.
-</div>
-<br>
 
 #### ✈️ 주요 기술
 <div markdown="1">
@@ -97,7 +91,7 @@
 <details>
   <summary><strong>JPEG 확장을 통한 다초점 멀티 콘텐츠 카메라 솔루션, <a href="https://github.com/HINAPIA/OnePic-All-in-JPEG">One Pic All-in JPEG</a></strong>
   </summary>
-  <img src="https://github.com/ujkkk/BOJ/assets/88374384/8921093c-bd9b-4b13-b2ae-d36d2c0a452d" alt="OnePIC All-in JPEG"/><br >
+  <img src="https://github.com/ujkkk/BOJ/assets/88374384/91a8ced2-bd31-4f9e-8629-6a56d4b0d5bd" alt="OnePIC All-in JPEG"/><br >
 
   <div align="right">Team. <a href="https://github.com/HINAPIA">황금비</a><br></div>
 
@@ -106,7 +100,7 @@
 가능한 카메라 솔루션입니다.**<br>
 2023.03. - 2023.12.<br><br>
 [<span class="icon-youtube"> 📺 Youtube </span>](https://www.youtube.com/watch?v=9IaMnBYUsA8) |  [<span class="icon-github"> Github </span>](https://github.com/HINAPIA/OnePic-All-in-JPEG)
-<br>
+<br><br>
 
 #### ✈️주요 기술
 <div markdown="1">
@@ -119,7 +113,7 @@
 #### 💁🏻‍♀️ 프로젝트 내 담당 기술
 <div markdown="1">
 <p style="margin-bottom:6px;">✔️ 멀티 콘텐츠(이미지, 텍스트, 오디오)를 담는 All-in JPEG 설계 및 구현</p>
-<p style="margin-bottom:6px;">✔️ Java 기반의 All-in JPEG 파일 입출력 구현/</p>
+<p style="margin-bottom:6px;">✔️ Java 기반의 All-in JPEG 파일 입출력 구현/</p>
 <p style="margin-bottom:6px;">✔️ JavaFX를 이용한 All-in JPEG 전용 데스크탑 뷰어 구현 </p>
 </div>
 <br>
