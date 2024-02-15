@@ -28,20 +28,24 @@
 <details>
   <summary><strong>Electron을 이용한 새로운 IoT 가전 장치, <a href="https://github.com/HINAPIA/CoMirror">CoMirror (Communication Mirror)</a></strong>
   </summary>
-<img src="https://github.com/kyum-q/kyum-q/assets/109158497/92007382-3389-417c-b4dc-d41e8f80d5a7" alt="CoMirror"/><br>
+  <div align="center">
+    <img src="https://github.com/ujkkk/ujkkk/assets/88374384/ee39da13-70ac-46cf-b27a-332790ab11ef" alt="CoMirror"  width = "780"/><br>
+  </div>
+
 
  <div align="right">Team. <a href="https://github.com/HINAPIA">황금비</a><br></div>
 
 ## Electron을 이용한 새로운 IoT 가전 장치, CoMirror (Communication Mirror) ##
 
-**CoMirror는 거울에 Raspberry PI를 부착한 IoT 가전장치로서, 패밀리 허브로 사용되거나 여러 패밀리를 네트워크로 연결할 수 있는 IoT 장치입니다.**<br>
+**CoMirror는 거울에 Raspberry PI를 부착한 IoT 가전장치로서, 패밀리 허브로 사용되거나 여러 패밀리를 네트워크로 연결할 수 있는 IoT 장치입니다.
+<br>거울에 종속적이지 않으며 다른 IoT 가전장치에서도 실행 가능합니다.**<br>
 2022.06. - 2023.02. <br><br>
 [<span class="icon-youtube"> 📺 Youtube </span>](https://www.youtube.com/watch?v=Fe8LvNGYio0) | [<span class="icon-github"> Github</span>](https://github.com/HINAPIA/CoMirror)<br><br>
 
 
 #### ✈️ 주요 기술
 <div markdown="1">
- <p style="margin-bottom:6px;">✔️ HTML, CSS, Javascript를 이용한 크로스 플랫폼 앱 제작</p>
+ <p style="margin-bottom:6px;">✔️ Electron 기반의 크로스 플랫폼 앱 제작</p>
  <p style="margin-bottom:6px;">✔️ 얼굴 인식 기반의 다중 사용자 환경 제공 </p>
  <p style="margin-bottom:6px;">✔️ 사용자간 텍스트, 이미지, 음성 메시지 통신 제공</p>
  <p style="margin-bottom:6px;">✔️ WebRTC를 이용한 CoMirror 사용자 간 화상 통신 기술</p>
@@ -92,8 +96,9 @@
 <details>
   <summary><strong>JPEG 확장을 통한 다초점 멀티 콘텐츠 카메라 솔루션, <a href="https://github.com/HINAPIA/OnePic-All-in-JPEG">One Pic All-in JPEG</a></strong>
   </summary>
-  <img src="https://github.com/ujkkk/BOJ/assets/88374384/91a8ced2-bd31-4f9e-8629-6a56d4b0d5bd" alt="OnePIC All-in JPEG"/><br >
-
+   <div align="center">
+     <img src="https://github.com/ujkkk/BOJ/assets/88374384/91a8ced2-bd31-4f9e-8629-6a56d4b0d5bd" alt="OnePIC All-in JPEG"  width = "780"/><br >
+  </div>
   <div align="right">Team. <a href="https://github.com/HINAPIA">황금비</a><br></div>
 
 ## JPEG 확장을 통한 다초점 카메라 솔루션, One Pic All-in JPEG
