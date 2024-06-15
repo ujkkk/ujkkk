@@ -28,9 +28,9 @@
 <details>
   <summary><strong>Electron을 이용한 새로운 IoT 가전 장치, <a href="https://github.com/HINAPIA/CoMirror">CoMirror (Communication Mirror)</a></strong>
   </summary>
-  <div align="center">
+<!--   <div align="center">
     <img src="https://github.com/ujkkk/ujkkk/assets/88374384/ee39da13-70ac-46cf-b27a-332790ab11ef" alt="CoMirror"  width = "500"/><br>
-  </div>
+  </div> -->
 
 
  <div align="right">Team. <a href="https://github.com/HINAPIA">황금비</a><br></div>
