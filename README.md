@@ -1,9 +1,6 @@
 
 ### Hi there 👋 I’m YuJin.
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fujkkk&count_bg=%238DB8DD&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
-<br>
-<div align="center">
-  
+
 <h2>My, GitHub :cloud:</h2>
 
 [![ujkkk's GitHub stats](https://github-readme-stats.vercel.app/api?username=ujkkk&hide_title=true&show_icons=true&include_all_commits=true&disable_animations=true&theme=vue)](https://github.com/anuraghazra/github-readme-stats)
@@ -152,20 +149,5 @@
 </details>
 <br>
 </details>
-
-<br><br>
-# 🏆 *Awards*
-
-- [2022. 09. 23] 제 18회 한성공학경진대회 금상
-- **[2022. 12. 15] 제 20회 임베디드 경진대회 자유공모 부문 기업후원 우수상(MDS인텔리전스 대표상)**
-- [2022. 12. 15] 제 20회 임베디드 경진대회 우수 연구노트 부문 특별상(성균관대학교 총장상)
-- [2023. 02. 20] 제 7회 한성대학교 창의융합성과 경진대회(C&C Festival) 대상
-- [2023. 06. 02] 한성대학교 컴퓨터공학부 캡스톤디자인 작품 발표회 최우수상
-- [2023. 08. 11] 제 8회 한성대학교 창의융합성과 경진대회(C&C Festival) 대상
-- [2023. 09. 26] 제 19회 한성공학경진대회 은상
-- **[2023. 12. 01] 제 17회 공개SW 개발자대회 은상(한국정보과학회 회장상)**
-<br>
-<br>
-
 
 
